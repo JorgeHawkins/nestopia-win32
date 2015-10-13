@@ -906,6 +906,12 @@
     <ClInclude Include="..\source\core\NstVideoFilterxBR.hpp">
       <Filter>VideoFilters</Filter>
     </ClInclude>
+    <ClInclude Include="..\source\core\board\NstBoardAcclaim.hpp">
+      <Filter>Board</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\core\board\NstBoardAcclaimMcAcc.hpp">
+      <Filter>Board</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\source\core\api\NstApiBarcodeReader.cpp">
@@ -1680,6 +1686,9 @@
     <ClCompile Include="..\source\core\NstZlib.cpp" />
     <ClCompile Include="..\source\core\NstVideoFilterxBR.cpp">
       <Filter>VideoFilters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\core\board\NstBoardAcclaimMcAcc.cpp">
+      <Filter>Board</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
