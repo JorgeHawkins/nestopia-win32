@@ -374,7 +374,7 @@ FONT 8, "MS Shell Dlg", 400, 0, 1
     GROUPBOX        "", IDC_STATIC, 7, 7, 147, 141
     LTEXT           "Nestopia UE vx.xx", IDC_ABOUT_NAMEVERSION, 52, 14, 59, 8, SS_LEFT
     ICON            "", IDC_ABOUT_ICON, 70, 36, 21, 20, SS_ICON
-    CTEXT           "Copyright © 2003-2008 Martin Freij\nCopyright © 2012-2014 R. Danbrook", IDC_STATIC, 15, 69, 122, 16, SS_CENTER
+    CTEXT           "Copyright © 2003-2008 Martin Freij\nCopyright © 2012-2016 R. Danbrook", IDC_STATIC, 15, 69, 122, 16, SS_CENTER
     LTEXT           "Homepage", IDC_STATIC, 13, 124, 8, 1, SS_LEFT
     CTEXT           "0ldsk00l.ca/nestopia", IDC_ABOUT_URL, 46, 102, 67, 8, SS_CENTER | SS_NOTIFY
     DEFPUSHBUTTON   "OK", IDOK, 62, 125, 37, 13
